@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Suraj Singh, a passionate software developer.
 
-<!--
-**singhzr/singhzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛃 I have a solid foundation in data structures and algorithms (DSA) and enjoy solving complex problems efficiently.
+- 🌱 I specialize in developing robust and scalable applications using the Spring Boot framework.
+- 👯 Happy to contribute for any open source project.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/thesinghzr/)
+
+
+<br />
+<br />
+<p align="center">
+    <img
+        height="180em"
+	 width="400em"
+        src="https://github-readme-stats.vercel.app/api?username=singhzr&show_icons=true&hide_border=true&theme=tokyonight"
+    />
+    <img
+        height="180em"
+	width="400em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhzr&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"
+    />
+</p>
